@@ -62,8 +62,8 @@ CREATE TABLE cameras (
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/SchmittAdrian/Sentinel.git
-cd sentinel
+git clone https://github.com/anagomes04/Project_Sentinel.git
+cd Project_Sentinel
 ```
 Install the dependencies:
 ```bash
@@ -143,8 +143,8 @@ CREATE TABLE cameras (
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/SchmittAdrian/Sentinel.git
-cd sentinel
+git clone https://github.com/anagomes04/Project_Sentinel.git
+cd Project_Sentinel
 ```
 Instale as dependências:
 ```bash
